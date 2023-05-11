@@ -2,7 +2,7 @@
 
 Drop-in replacement for default Mule Logger that outputs a JSON structure based on a predefined JSON schema.
 
-## Why?
+## Why??
 
 - Logs are as good as the logging practices applied by developers
 - Not all developers think alike on what needs to be logged
